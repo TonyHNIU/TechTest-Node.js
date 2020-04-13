@@ -1,0 +1,15 @@
+{
+  "name": "xero",
+  "version": "1.0.0",
+  "description": "Xero technical excercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "author": "Primoz Skerbis",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "7.0.1"
+  }
+}
